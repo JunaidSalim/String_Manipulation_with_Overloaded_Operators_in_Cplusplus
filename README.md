@@ -1,5 +1,5 @@
 # String-Manipulation-with-Overloaded-Operators-in-C-
- A class that provides various string operations including concatenation, comparison, indexing, sub-string extraction, assignment, and shifting.
+ A class that provides various string library functions including concatenation, comparison, indexing, sub-string extraction, assignment, and shifting.
 
 This repository contains a C++ program that implements a custom string class called `STRING`. The `STRING` class provides several overloaded operators and member functions for performing various operations on strings.
 
